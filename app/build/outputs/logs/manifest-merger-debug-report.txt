@@ -1,0 +1,109 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:11:22-72
+uses-permission#android.permission.INTERNET
+ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:16:22-78
+application
+ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:18:5-46:19
+	android:label
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:21:9-41
+	android:allowBackup
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:20:9-45
+	android:theme
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:22:9-40
+activity#simpress.mobileinfo.MainActivity
+ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:24:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:29:27-74
+service#simpress.mobileinfo.ServicoTest
+ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:32:9-37:19
+	android:label
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:32:18-45
+	android:exported
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:32:73-97
+	android:name
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:32:46-72
+intent-filter#SERVICO_TEST+android.intent.category.DEFAULT
+ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:33:13-36:29
+category#android.intent.category.DEFAULT
+ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:34:17-75
+	android:name
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:34:27-73
+action#SERVICO_TEST
+ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:35:17-54
+	android:name
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:35:25-52
+receiver#simpress.mobileinfo.BroadcastTest
+ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:38:9-45:20
+	android:label
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:40:13-42
+	android:permission
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:41:13-75
+	android:name
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:39:13-41
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:42:13-44:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:43:17-78
+	android:name
+		ADDED from E:\android\MobileInfo\app\src\main\AndroidManifest.xml:43:25-76
