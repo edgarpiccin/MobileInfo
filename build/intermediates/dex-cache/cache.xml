@@ -5,22 +5,8 @@
         jar="E:\android\MobileInfo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="7cfdbd6995accbed612490a6cd19fa48ea403ccb">
+        sha1="3036dd81b6588b4be9a8abbe820d477805c4f824">
         <dex dex="E:\android\MobileInfo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b4c4c47767c959cc5f8ba75bf892c0fd89f3d93b\classes.dex" />
-    </item>
-    <item
-        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="E:\android\MobileInfo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_7541db917baa506c0dd564574dda219c7099e134\classes.dex" />
-    </item>
-    <item
-        jar="E:\android\MobileInfo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="271f7fc86a4d374771577e595c00700009085bbc">
-        <dex dex="E:\android\MobileInfo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_62c43679a22df9ad0a4e0aad3e266230eb20bb9e\classes.dex" />
     </item>
 
 </items>

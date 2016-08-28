@@ -31,7 +31,7 @@ import android.os.Bundle;
 import android.os.IBinder;
 import android.telephony.TelephonyManager;
 import android.util.Log;
-import android.widget.Toast;
+
 
 public class ServicoTest extends Service {
 	public List<Worker> threads = new ArrayList<Worker>();
@@ -110,7 +110,6 @@ public class ServicoTest extends Service {
         cursor.moveToFirst();
 
         if (cursor.getCount() >= 1) {
-            Toast.makeText(this, "IMEI: " + cursor.getString(0), Toast.LENGTH_SHORT).show();
 
             for (int i = 0; i < cursor.getCount(); i++) {
                 ImeiLocation item = new ImeiLocation(cursor.getInt(0), cursor.getString(1), cursor.getString(2), cursor.getString(3), cursor.getString(4));

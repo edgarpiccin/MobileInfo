@@ -45,8 +45,8 @@
                     "startLine": 4,
                     "startColumn": 4,
                     "startOffset": 169,
-                    "endColumn": 58,
-                    "endOffset": 223
+                    "endColumn": 57,
+                    "endOffset": 222
                 },
                 "from": {
                     "file": "E:\\android\\MobileInfo\\app\\src\\main\\res\\values\\strings.xml",
@@ -54,8 +54,8 @@
                         "startLine": 3,
                         "startColumn": 4,
                         "startOffset": 59,
-                        "endColumn": 58,
-                        "endOffset": 113
+                        "endColumn": 57,
+                        "endOffset": 112
                     }
                 }
             },
@@ -63,10 +63,10 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 228,
+                    "startOffset": 227,
                     "endLine": 11,
                     "endColumn": 12,
-                    "endOffset": 514
+                    "endOffset": 513
                 },
                 "from": {
                     "file": "E:\\android\\MobileInfo\\app\\src\\main\\res\\values\\styles.xml",
@@ -84,10 +84,10 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 519,
+                    "startOffset": 518,
                     "endLine": 14,
                     "endColumn": 12,
-                    "endOffset": 674
+                    "endOffset": 673
                 },
                 "from": {
                     "file": "E:\\android\\MobileInfo\\app\\src\\main\\res\\values\\styles.xml",
